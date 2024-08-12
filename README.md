@@ -3,13 +3,13 @@
 Your Pusheen Clock box has a number of modes. You can move through the modes using the central "Mode Select" button, which is typically illuminated blue.
 
 ## Modes:
- - Pusheen Clock
- - Messages
- - Do Not Disturb
- - Weather
- - Nyan Pusheen
+ - [Pusheen Clock](https://github.com/alliefm/ShayBox/blob/main/README.md#pusheen-clock)
+ - [Messages](https://github.com/alliefm/ShayBox/blob/main/README.md#Messages)
+ - [Do Not Disturb](https://github.com/alliefm/ShayBox/blob/main/README.md#Do-Not-Disturb)
+ - [Weather](https://github.com/alliefm/ShayBox/blob/main/README.md#Weather)
+ - [Nyan Pusheen](https://github.com/alliefm/ShayBox/blob/main/README.md#nyan-pusheen)
 
-## Troubleshooting
+## [Troubleshooting](https://github.com/alliefm/ShayBox/blob/main/README.md#troubleshooting)
 
 ## Pusheen Clock
 This mode shows you the time. The color of the clock changes based on the time of day.
