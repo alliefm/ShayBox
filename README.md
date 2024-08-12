@@ -4,9 +4,9 @@ Your Pusheen Clock box has a number of modes. You can move through the modes usi
 
 ## Modes:
  - [Pusheen Clock](https://github.com/alliefm/ShayBox/blob/main/README.md#pusheen-clock)
- - [Messages](https://github.com/alliefm/ShayBox/blob/main/README.md#Messages)
- - [Do Not Disturb](https://github.com/alliefm/ShayBox/blob/main/README.md#Do-Not-Disturb)
- - [Weather](https://github.com/alliefm/ShayBox/blob/main/README.md#Weather)
+ - [Messages](https://github.com/alliefm/ShayBox/blob/main/README.md#messages)
+ - [Do Not Disturb](https://github.com/alliefm/ShayBox/blob/main/README.md#do-not-disturb)
+ - [Weather](https://github.com/alliefm/ShayBox/blob/main/README.md#weather)
  - [Nyan Pusheen](https://github.com/alliefm/ShayBox/blob/main/README.md#nyan-pusheen)
 
 ## [Troubleshooting](https://github.com/alliefm/ShayBox/blob/main/README.md#troubleshooting)
