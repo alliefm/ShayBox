@@ -8,6 +8,7 @@ Modes:
  - Do Not Disturb
  - Weather
  - Nyan Pusheen
+
 Troubleshooting
 
 Pusheen Clock
