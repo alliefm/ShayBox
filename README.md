@@ -9,8 +9,6 @@ Your Pusheen Clock box has a number of modes. You can move through the modes usi
  - [Weather](https://github.com/alliefm/ShayBox/blob/main/README.md#weather)
  - [Nyan Pusheen](https://github.com/alliefm/ShayBox/blob/main/README.md#nyan-pusheen)
 
-## [Troubleshooting](https://github.com/alliefm/ShayBox/blob/main/README.md#troubleshooting)
-
 ## Pusheen Clock
 This mode shows you the time. The color of the clock changes based on the time of day.
 
